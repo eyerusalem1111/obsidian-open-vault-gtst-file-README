@@ -1,0 +1,1 @@
+# obsidian-open-vault-gtst-file-README
