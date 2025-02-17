@@ -1,1 +1,1 @@
-# obsidian-open-vault-gtst-file-README
+This is note written while Tacking Geez Teck Security Testers Course.
